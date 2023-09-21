@@ -123,4 +123,4 @@
   <br/>
 </a>
 
-![Anuj's Graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aasn0119&theme=radical&utcOffset=8)
+![Anuj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aasn0119&custom_title=Anuj%20Trivedi%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
