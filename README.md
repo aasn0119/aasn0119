@@ -53,7 +53,6 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 🌱 &emsp; I’m currently engaged in the study of Machine Learning<br/><br/>
  📧 &emsp; Reach me anytime: aasnsa05@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/aasn0119/aasn0119/issues)
 
@@ -95,7 +94,7 @@
 [![Education-website](https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=Fully-Responsive-Education-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aasn0119/Fully-Responsive-Education-website)
 [![V Folio](https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aasn0119/portfolio)
 [![Anuj Readme](https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=aasn0119&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aasn0119/aasn0119)
-[![Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=Calculator-app.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aasn0119/Calculator-app.github.io)
+[![Memes generator App](https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=React-random_Memes_Generator.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]((https://aasn0119.github.io/React-random_Memes_Generator/))
 
 <p align="left">
   <a href="https://github.com/aasn0119?tab=repositories" target="_blank"><img alt="All Repos" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
