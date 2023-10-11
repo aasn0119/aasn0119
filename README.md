@@ -63,6 +63,18 @@
 <br/>
 <br/>
 
+<!-- Holopin Badge Section -->
+<h2 align="center">:star: My Holopin Badges :star:</h2>
+<p align="center">
+  <a href="https://holopin.io/@aasn0119">
+    <img src="https://holopin.me/aasn0119" alt="My Holopin Badges" width="100" onerror="this.onerror=null; this.src='YOUR_FALLBACK_IMAGE_URL';">
+  </a>
+</p>
+
+<br/>
+<br/>
+<br/>
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
