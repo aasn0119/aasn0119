@@ -66,7 +66,7 @@
 <h2 align="center">:star: My Holopin Badges :star:</h2>
 <p align="center">
   <a href="https://holopin.io/@aasn0119">
-    <img src="https://holopin.me/aasn0119" alt="My Holopin Badges" width="400" style="display: block; margin: 0 auto;" onerror="this.onerror=null; this.src='YOUR_FALLBACK_IMAGE_URL';">
+    <img src="https://holopin.me/aasn0119" alt="My Holopin Badges" width="800" style="display: block; margin:auto;" onerror="this.onerror=null; this.src='YOUR_FALLBACK_IMAGE_URL';">
   </a>
 </p>
 
