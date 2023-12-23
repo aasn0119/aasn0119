@@ -35,7 +35,7 @@
  <a href="https://www.linkedin.com/in/anuj-abhi-s019" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anuj"/>
  </a>
- <a href="https://instagram.com/anuj_trivedi_19" target="_blank">
+ <a href="https://www.instagram.com/anuj_trivedi_19/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="anuj" />
  </a> 
  <a href="https://facebook.com/anuj.trivedi.7315" target="_blank">
@@ -66,11 +66,11 @@
 <h2 align="center">:star: My Holopin Badges :star:</h2>
 <p align="center">
   <a href="https://holopin.io/@aasn0119">
-    <img src="https://holopin.me/aasn0119" alt="My Holopin Badges" width="100" onerror="this.onerror=null; this.src='YOUR_FALLBACK_IMAGE_URL';">
+    <img src="https://holopin.me/aasn0119" alt="My Holopin Badges" width="800" style="display: block; margin:auto;" onerror="this.onerror=null; this.src='YOUR_FALLBACK_IMAGE_URL';">
   </a>
 </p>
 
-<br/>
+
 <br/>
 <br/>
 
