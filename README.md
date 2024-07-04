@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/aasn0119"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;6%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/aasn0119"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;full%20stack%20Developer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!-- <a href="https://komarev.com/ghpvc/?username=aasn0119">
@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a Front-end developer and AI/ML Enthusiast from <b>India</b> 」
+    「 I am a Full-stack developer and AI/ML Enthusiast from <b>India</b> 」
     <br>
     <br>
   </samp>
