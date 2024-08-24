@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/aasn0119"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;full%20stack%20Developer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/aasn0119"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;full%20stack%20Developer;2%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <!-- <a href="https://komarev.com/ghpvc/?username=aasn0119">
