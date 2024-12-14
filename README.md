@@ -79,12 +79,13 @@
   <a href="https://github.com/aasn0119/project-zeus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=project-zeus&theme=radical" alt="A Chat App">
   </a>
+  <a href="https://github.com/aasn0119/MeriDukaan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=MeriDukaan&theme=radical" alt="V Folio">
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/aasn0119/aora">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=aora&theme=radical" alt="A social Media mobile App">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/aasn0119/v-folio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasn0119&repo=v-folio&theme=radical" alt="V Folio">
   </a>
+  
 </p>
 
 <p align="center">
