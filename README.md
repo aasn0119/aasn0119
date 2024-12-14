@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://anuj-vfolio.netlify.app" target="blank">
+ <a href="https://my-vfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website">
  </a>
  <a href="https://www.linkedin.com/in/anuj-abhi-s019" target="_blank">
